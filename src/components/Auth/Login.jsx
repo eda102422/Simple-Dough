@@ -17,7 +17,7 @@ const Login = () => {
   // Demo accounts for testing
   const demoAccounts = {
     admin: { email: 'admin@simpledough.com', password: 'admin123', name: 'Admin User', role: 'admin' },
-    customer: { email: 'customer@example.com', password: 'customer123', name: 'John Doe', role: 'customer' }
+    customer: { email: 'customer@example.com', password: 'customer123', name: 'Kent Vincent', role: 'customer' }
   };
 
   const handleSubmit = (e) => {
